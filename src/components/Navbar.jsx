@@ -90,7 +90,7 @@ const Navbar = () => {
       </div>
 
       {/* Slide-out Menu for Small Screens */}
-      <div className="md:hidden absolute flex justify-center items-center w-full mt-5">
+      <div className="md:hidden absolute flex justify-center items-center w-full mt-2">
          <img src={logo} alt="logo" />
       </div>
       <div
