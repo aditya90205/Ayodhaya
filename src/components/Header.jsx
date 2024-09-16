@@ -22,7 +22,7 @@ const Header = () => {
 
     {/* Centered Content */}
     <div className="absolute inset-0 flex flex-col items-center justify-center text-center text-white z-10 px-4">
-      <h1 className="text-4xl md:text-6xl font-bold mb-4">Discover the Spiritual Heart of India - Ayodhya</h1>
+      <h1 className="text-4xl md:text-6xl font-bold mb-4">&ldquo;Discover the Spiritual Heart of India - Ayodhya &rdquo;</h1>
       <p className="text-lg md:text-xl">Explore the birthplace of Lord Rama, where ancient history and spirituality meet</p>
     </div>
   </header>
