@@ -1,6 +1,11 @@
+import About from '../components/About'
 import Card from '../components/Card'
+import DivineConnect from '../components/DivineConnect'
 import Header from '../components/Header'
+import HolidaySpecialOffer from '../components/HolidaySpecialOffer'
 import Ram from '../components/Ram'
+import Testimonials from '../components/Testimonials'
+import UpcomingEvents from '../components/UpcomingEvents'
 
 const LandingPage = () => {
   return (
@@ -8,6 +13,11 @@ const LandingPage = () => {
     <Header />
     <Ram />
     <Card />
+    <UpcomingEvents />
+    <About />
+    <DivineConnect />
+    <HolidaySpecialOffer />
+    <Testimonials />
     </>
   )
 }
