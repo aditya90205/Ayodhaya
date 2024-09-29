@@ -15,7 +15,7 @@ const Testimonials = () => {
 
   return (
     <>
-      <div className="flex flex-col items-center justify-center bg-gray-100 p-4">
+      <div className="flex flex-col items-center justify-center p-4 mt-5">
         {/* Static Heading */}
         <h1 className="text-2xl md:text-4xl font-bold mb-6 text-center">
           See the memories we have created
